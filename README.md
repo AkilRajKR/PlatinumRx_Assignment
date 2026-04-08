@@ -153,6 +153,17 @@ Data_Analyst_Assignment/
 
 ---
 
+## Project Links
+
+**GitHub Repository:**  https://github.com/AkilRajKR/PlatinumRx_Assignment
+
+**Excel / Google Sheets Analysis:**  https://docs.google.com/spreadsheets/d/1loFhPtCwc5L827CdS8I5dkRBaSRXue2UbLPDyEPEvS4/edit?usp=drive_link
+
+**Project Explanation Video:** https://drive.google.com/file/d/1SgFx4pzME9iLN96w1RnVZE2vrXnmEJce/view?usp=drive_link
+
+---
+
+
 ## Highlights
 
 * Maintained order while removing duplicates

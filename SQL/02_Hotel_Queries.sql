@@ -53,7 +53,6 @@ where rnk_desc = 1 or rnk_asc = 1;
 
 -- Q5: Customers with second highest bill per month (2021)
 -- Logic: Fetch second highest monthly bills
--- Q5: Find the customers with the second highest bill value of each month of year 2021
 
 with monthly_bill as (
     select month(bc.bill_date) as month_no,

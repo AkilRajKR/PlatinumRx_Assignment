@@ -4,7 +4,7 @@
 create database if not exists hotel_schema_setup;
 
 -- Use Database
-use Hotel_Schema_Setup;
+use hotel_schema_setup;
 
 drop table if exists booking_commercials;
 drop table if exists bookings;

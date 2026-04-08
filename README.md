@@ -173,7 +173,7 @@ Data_Analyst_Assignment/
 
 **Akilraj K R**
 B.Tech – Computer Science and Business Systems
-Aspiring Data Analyst / Backend Developer 
+Aspiring Data Analyst / Business Data Analysis using SQL, Excel & Python
 
 
 

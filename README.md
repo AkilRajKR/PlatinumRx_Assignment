@@ -22,7 +22,7 @@ The solutions focus on **accuracy, clarity, and interview-ready logic**.
 ---
 
 ##  Project Structure
-
+```
 Data_Analyst_Assignment/
 │
 ├── SQL/
@@ -39,7 +39,7 @@ Data_Analyst_Assignment/
 │   └── 02_Remove_Duplicates.py
 │
 └── README.md
-
+```
 
 ---
 
@@ -171,6 +171,10 @@ Data_Analyst_Assignment/
 
 # Author
 
-**Akil Raj**
+**Akilraj K R**
 B.Tech – Computer Science and Business Systems
-Aspiring Data Analyst / Backend Developer is this ok eating out of 10
+Aspiring Data Analyst / Backend Developer 
+
+
+
+

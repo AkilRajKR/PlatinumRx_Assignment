@@ -21,7 +21,7 @@ The solutions focus on **accuracy, clarity, and interview-ready logic**.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Data_Analyst_Assignment/
 │
